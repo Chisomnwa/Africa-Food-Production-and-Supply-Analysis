@@ -4,7 +4,11 @@ ___Who eats and who supplies the food we grow in Africa?___
  
 The project focuses on finding insights, patterns and trends through visualizations on food Production and Supply data in Africa.
  
-Do all African countries have equal access to food items as regards to food supply? And do all African countries equally produce the food we eat in Africa?
+**Do all African countries have equal access to food items as regards to food supply?**
+
+**And do all African countries equally produce the food we eat in Africa?**
+
+**Were there food Surpluses which eventually led to food shortages in Africa?**
  
 In this project, we will be analyzing two different datasets namely food production and food supply datasets. These two datasets have information about food production and food supply in 45 African countries between (2004 - 2013) respectively and it was sourced from [FAO](https://www.fao.org/faostat/en/#data) (Food and Agriculture Organization of United Nations)'s website.
  
