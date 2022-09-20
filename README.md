@@ -6,7 +6,7 @@ The project focuses on finding insights, patterns and trends through visualizati
  
 **Do all African countries have equal access to food items as regards to food supply?**
 
-**And do all African countries equally produce the food we eat in Africa?**
+**Do all African countries equally produce the food we eat in Africa?**
 
 **Were there food Surpluses which eventually led to food shortages in Africa?**
  
@@ -87,6 +87,8 @@ The third dataset which we will also analyze and then use for our hypothesis tes
  - Nigeria was the top Cassava and products producing country, producing an average of 45.288 (kt) of Cassava. Ghana, Angola and Mozambique were other Cassava producing countries but didn't produce half of what Nigeria produced.
  
  - The top beverage producing country was Nigeria followed by Burkina Faso and Uganda but who weren't producing half of what Nigeria produced.
+
+ - The highest food producing countries had the highest food surpluses which weren't utilized leading to food shortages.
  
 # Requirements
  
