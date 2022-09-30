@@ -89,7 +89,3 @@ The third dataset which we will also analyze and then use for our hypothesis tes
  - The top beverage producing country was Nigeria followed by Burkina Faso and Uganda but who weren't producing half of what Nigeria produced.
 
  - The highest food producing countries had the highest food surpluses which weren't utilized leading to food shortages.
- 
-# Requirements
- 
-The codes were implemented with a python (version 3.9.12) kernel having pandas (version 1.4.2).
